@@ -70,7 +70,7 @@ b)For User :<a>https://drive.google.com/file/d/1GE5fl317B69Gr8cs6yFWbFh0x32XoZNs
 
 ### Team Members
 
-* Avushikta Bhattacharjee (Machine Learning Architect) - Designed and implemented the machine learning pipeline and data analysis.
+* Avishikta Bhattacharjee (Machine Learning Architect) - Designed and implemented the machine learning pipeline and data analysis.
 * Akangkha Sarkar - Integrated the models with Gradio and developed Power BI visualizations.
 * Kumar Priyanshu-In charge of the thorough data collecting using a variety of techniques, making use of sophisticated web scraping tools like Beautifulsoup and Selenium.
 
