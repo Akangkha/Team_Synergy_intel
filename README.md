@@ -79,4 +79,4 @@ b)For User :<a>https://drive.google.com/file/d/1GE5fl317B69Gr8cs6yFWbFh0x32XoZNs
 
 * Explore sentiment analysis for other product categories.
 * Implement real-time sentiment analysis for online reviews.
-* Analyze the reasons behind sentiment in more detail (e.g., topic modeling).
+* Analyze the reasons behind sentiment in more detail .
