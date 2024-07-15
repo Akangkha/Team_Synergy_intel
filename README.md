@@ -65,9 +65,15 @@ Follow the steps outlined in the notebook:
  c.User Review Visualisation: This section processes user reviews and visualizes sentiment trends.
  d.Technical Review Visualisation and Model Prediction: This section focuses on technical reviews, allowing sentiment analysis and model predictions.
 
-for reference tutorial video is provided below:
-a)For Tech: <a>https://drive.google.com/file/d/1uQXURMuQ7w3vn06b5yFGAEVckTc155Fr/view?usp=sharing</a>
-b)For User :<a>https://drive.google.com/file/d/1GE5fl317B69Gr8cs6yFWbFh0x32XoZNs/view?usp=sharing</a>
+ 
+For detailed tutorials, please refer to the videos below:
+- [Tech Tutorial](https://drive.google.com/file/d/1uQXURMuQ7w3vn06b5yFGAEVckTc155Fr/view?usp=sharing)
+- [User Tutorial](https://drive.google.com/file/d/1GE5fl317B69Gr8cs6yFWbFh0x32XoZNs/view?usp=sharing)
+
+## Documentation
+For comprehensive documentation, please visit the following link:
+- [Documentation](https://docs.google.com/document/d/18VlPWnCw1ypK_u447tJNEk5S0GT0isLuYMujKzk9cUI/edit?usp=sharing)
+
 
 ### Team Members
 
