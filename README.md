@@ -37,7 +37,8 @@ This project provides Intel with a robust and automated system to:
 * Technical Specifications Insights: Extract and summarize key technical specifications from reviews.
 * Reviews Starting from 2012: Focus analysis on reviews written from 2012 to the present.
 * Features Offered: List features of products based on review analysis and specifications.
-
+* **Link to access the DistilBert model:** <a>https://drive.google.com/file/d/1aljvTiUOMOYfS1qc8GhoRDScYkNPPOfE/view?usp=sharing</a>
+* **Link to access the Logistice Regression model:** <a>https://drive.google.com/file/d/1NQOJYpV4vsAmBJO6LA0liRuvZufyYuel/view?usp=sharing</a>
 
 ### Getting Started
 
