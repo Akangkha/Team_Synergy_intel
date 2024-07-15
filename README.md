@@ -33,10 +33,10 @@ This project explores user sentiment towards Intel processors over time through 
 This project provides Intel with a robust and automated system to:
 
 * Predict Sentiments for Reviews: Classify reviews as positive, negative, or neutral using sentiment analysis.
-*Positive-Negative Trend Over Years: Track sentiment trends in reviews from 2012 onwards using visual graphs.
-*Technical Specifications Insights: Extract and summarize key technical specifications from reviews.
-*Reviews Starting from 2012: Focus analysis on reviews written from 2012 to the present.
-*Features Offered: List features of products based on review analysis and specifications.
+* Positive-Negative Trend Over Years: Track sentiment trends in reviews from 2012 onwards using visual graphs.
+* Technical Specifications Insights: Extract and summarize key technical specifications from reviews.
+* Reviews Starting from 2012: Focus analysis on reviews written from 2012 to the present.
+* Features Offered: List features of products based on review analysis and specifications.
 
 
 ### Getting Started
