@@ -2,7 +2,7 @@
 
 This project explores user sentiment towards Intel processors over time through a multi-stage machine learning architecture and visualization pipeline.
 
-All necessary documents can be found in `Docs` directory.
+All necessary documents can be found in `Docs` directory
 
 ## Project Goals
 
